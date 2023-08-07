@@ -1,7 +1,7 @@
 ## Flask/MongoDB API
 REST API CRUD built with Flask and MongoDB
 
-API to be utilized with a React App
+Link to frontend repo 👉🏼 [aitools_react](https://github.com/GITvoren/aitools_react)
 
 ### API hosted on [Render](https://render.com/)
 
