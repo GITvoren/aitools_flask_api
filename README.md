@@ -7,8 +7,8 @@ API to be utilized with a React App
 
 
 #### Built with
-  -flask
-  -pymongo
-  -gunicorn
-  -cors
-  -dotenv
+  - flask
+  - pymongo
+  - gunicorn
+  - cors
+  - dotenv
