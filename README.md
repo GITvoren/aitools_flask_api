@@ -7,7 +7,7 @@ The purpose of this project is to curate the best AI productivity tools that exi
 
 Link to frontend repo 👉🏼 [aitools_react](https://github.com/GITvoren/aitools_react)
 
-API hosted on [Render](https://render.com/)
+Flask API hosted on [Render](https://render.com/)
 
 React app hosted on [Vercel](https://vercel.com/dashboard)
 
