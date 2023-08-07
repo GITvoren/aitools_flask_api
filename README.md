@@ -1,14 +1,14 @@
 ## Flask/MongoDB API
-REST API CRUD with Flask and MongoDB
+REST API CRUD built with Flask and MongoDB
 
 API to be utilized with a React App
 
-### this API is hosted on [Render](https://render.com/)
+### API hosted on [Render](https://render.com/)
 
 
 #### Built with
--flask
--pymongo
--gunicorn
--cors
--dotenv
+  -flask
+  -pymongo
+  -gunicorn
+  -cors
+  -dotenv
