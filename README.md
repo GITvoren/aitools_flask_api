@@ -1,4 +1,4 @@
-## aitools_flask_api
+## Flask/MongoDB API
 REST API CRUD with Flask and MongoDB
 API to be utilized with a React App
 
