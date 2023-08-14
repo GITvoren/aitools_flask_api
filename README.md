@@ -3,7 +3,7 @@ This project is built with Flask as Backend, React as Frontend, and MongoDB as D
 
 The purpose of this project is to curate the best AI productivity tools that exist in the web.
 
-Link to Live Demo of the project 👉🏼 [Website Link](https://ai-stash.vercel.app/)
+[Live Demo](https://ai-stash.vercel.app/) of the Web App
 
 Link to frontend repo 👉🏼 [aitools_react](https://github.com/GITvoren/aitools_react)
 
